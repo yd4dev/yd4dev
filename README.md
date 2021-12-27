@@ -17,5 +17,5 @@
 
 ## ⌨️ GitHub Stats ⌨️
 <a href="">
-<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Dennis1507&theme=tokyonight" />
+<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Dennis1507&theme=tokyonight&hide_border=true&background=FFFFFF00&count_private=true" />
 </a>
