@@ -11,9 +11,11 @@
 </a>
 </br>
 
+- JavaScript <img width="25" height="25" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+- TypeScript <img width="25" height="25" align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+
 ### 🍹 Currently learning: 
-- JavaScript <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-- TypeScript <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+- PHP <img width="25" height="25" align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 
 ## ⌨️ GitHub Stats ⌨️
 <a href="">
