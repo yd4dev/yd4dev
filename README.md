@@ -10,7 +10,7 @@
   <img align="left" alt="My Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 </br>
-
+</br>
 - JavaScript <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 - TypeScript <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 
