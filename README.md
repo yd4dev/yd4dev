@@ -16,7 +16,7 @@
 - TypeScript <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 
 ### 🍹 Currently learning: 
-- PHP <img width="25" height="25" align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+- Python <img width="25" height="25" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
 
 ## ⌨️ GitHub Stats ⌨️
 <a href="">
