@@ -13,11 +13,9 @@
 </br>
 
 
-- JavaScript <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-- TypeScript <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+<img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> <img width="22" height="22" src="https://www.php.net/images/logos/new-php-logo.svg">
 
-### 🍹 Currently learning: 
-- Python <img width="22" height="22" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+- 🍹 Currently learning: NextJS <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
 
 ## ⌨️ GitHub Stats ⌨️
 <a href="">
