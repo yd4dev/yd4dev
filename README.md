@@ -1,7 +1,5 @@
-## ✨ My Profile ✨
-
 <a href="https://discord.gg/TwbbsSH">
-  <img align="left" alt="My Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="My Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://open.spotify.com/user/xc63m43d1zjh4lgtvjgw5x3fr?si=950274a1e52843ce">
   <img align="left" alt="My Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
@@ -11,11 +9,6 @@
 </a>
 </br>
 </br>
-
-
-<img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> <img width="22" height="22" src="https://www.php.net/images/logos/new-php-logo.svg">
-
-- 🍹 Currently learning: NextJS <img width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
 
 ## ⌨️ GitHub Stats ⌨️
 <a href="">
